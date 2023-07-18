@@ -1,0 +1,19 @@
+hey friends i like to solve coding problems in codechef and other coding platforms 
+i solve a few coding problem daily in codechef and it is consuming a considerable amount of time to upload the solutions in github 
+i usually solve problems in codechef and paste it in my notepad
+
+
+formate(
+//problem name 
+code
+//problem2 name 
+code for problem2
+//and so on...
+)
+
+
+and finally after solving a bunch of them i upload it in github 
+is there a way to automate this process using python or with the help of some other tools.
+
+
+once done with the final answer i will update it.
